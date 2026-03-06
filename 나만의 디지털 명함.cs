@@ -44,5 +44,10 @@ namespace MyBusinessCard
         {
             pictureBox1.BorderStyle = BorderStyle.Fixed3D;
         }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }
