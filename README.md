@@ -17,6 +17,11 @@
 <img width="1218" height="824" alt="스크린샷 2026-03-07 211936" src="https://github.com/user-attachments/assets/2a2082ac-d74d-497a-bf88-6f91b7103ba6" />
 </p>
 
+- (GitHub 버튼 클릭)
+ <p>
+ <img width="579" height="357" alt="스크린샷 2026-03-07 223322" src="https://github.com/user-attachments/assets/d29b821d-3aca-4ada-bd88-bbb083906b44" />
+ </p>
+
 - (사진 변경)
 <p>
 <img width="1217" height="821" alt="스크린샷 2026-03-07 205849" src="https://github.com/user-attachments/assets/53d5179a-9c99-47a1-8fbb-acb6577ced4d" />
